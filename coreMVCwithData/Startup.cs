@@ -5,10 +5,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 // next 2 added by tim finch:
-using AdventureWorksCore2_1.Models;
+using coreMVCwithData.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace AdventureWorksCore2_1
+namespace coreMVCwithData
 {
     public class Startup
     {

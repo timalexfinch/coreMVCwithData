@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AdventureWorksCore2_1.Models
+namespace coreMVCwithData.Models
 {
     public partial class Customer
     {

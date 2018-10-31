@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using AdventureWorksCore2_1.Models;
+using coreMVCwithData.Models;
 using X.PagedList;
 
-namespace AdventureWorksCore2_1.Controllers
+namespace coreMVCwithData.Controllers
 {
     public class ProductsController : Controller
     {

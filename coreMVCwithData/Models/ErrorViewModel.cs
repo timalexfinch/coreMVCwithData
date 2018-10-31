@@ -1,6 +1,6 @@
 using System;
 
-namespace AdventureWorksCore2_1.Models
+namespace coreMVCwithData.Models
 {
     public class ErrorViewModel
     {
